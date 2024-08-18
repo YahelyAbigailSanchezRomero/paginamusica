@@ -1,0 +1,33 @@
+nav img{
+    width: 80px;
+ }
+ .card img{
+   width: 100%;
+   height: auto;
+
+ }
+ #principal img{
+   max-height: 95vh;
+   object-fit: cover;
+}
+h1{
+   font-family: 'Times New Roman', Times, serif;
+}
+.card-title{
+   cursor: pointer;
+}
+#principal p:hover{
+   cursor: pointer;
+   color: aqua;
+}
+#principal h5:hover{
+   cursor: pointer;
+   color: aqua;
+}
+#footer{
+   background-color: #617c9b;
+}
+#footer a{
+   text-decoration: none;
+   color: white;
+}
